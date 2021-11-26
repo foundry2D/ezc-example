@@ -1,0 +1,6 @@
+[submodule "imgui"]
+	path = imgui
+	url = git@github.com:foundry2D/imgui.git
+[submodule "Kinc"]
+	path = Kinc
+	url = https://github.com/foundry2D/Kinc.git
